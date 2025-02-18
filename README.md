@@ -3,8 +3,8 @@
 💻 Full-Stack Developer | 🚀 Open Source Enthusiast  
 
 🔹 **About Me:**  
-- 🌱 I’m currently learning **Next.js & TypeScript**  
-- 💬 Ask me about **React, Node.js, PHP, and Python**  
+- 🌱 I’m currently learning **Go and devops**  
+  
 
 
 🔹 **Tech Stack:**  
