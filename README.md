@@ -15,4 +15,10 @@
 
 🔹 **GitHub Stats:**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashtilala412&show_icons=true&theme=dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashtilala412&theme=react-dark&hide_border=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yashtilala412&theme=dark&hide_border=true)
+
+
 
