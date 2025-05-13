@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
 🔹 **GitHub Stats:**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashtilala412&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashtilala412&show_icons=true&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashtilala412&theme=react-dark&hide_border=true)
 
 
